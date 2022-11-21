@@ -5,6 +5,8 @@ It uses the deck of cards api to create a deck and fetch information about it, s
 
 Made along with API Course on scrimba. 
 
+[Click to Play!](https://ludrahsgartage.github.io/War-Game-with-Cards-API/)
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
